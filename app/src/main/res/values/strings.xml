@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ITHome Github</string>
+
+    <string name="fragment_log_in_button">Log In</string>
+</resources>

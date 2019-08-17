@@ -1,1 +1,0 @@
-/Users/yen/Desktop/AndroidProject/IThomeGithub/buildSrc/build/classes/kotlin/main/Libs.class:/Users/yen/Desktop/AndroidProject/IThomeGithub/buildSrc/build/classes/kotlin/main/Versions.class

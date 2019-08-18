@@ -28,6 +28,8 @@ object Versions {
     val mvrx = "1.0.2"
 
     val epoxy = "3.7.0"
+
+    val room = "1.1.1"
 }
 
 object Libs {
@@ -57,4 +59,7 @@ object Libs {
     val mvrx = "com.airbnb.android:mvrx:${Versions.mvrx}"
     val epoxy = "com.airbnb.android:epoxy:${Versions.epoxy}"
     val epoxy_processor = "com.airbnb.android:epoxy-processor:${Versions.epoxy}"
+    val room_runtime = "android.arch.persistence.room:runtime:${Versions.room}"
+    val room_compiler = "android.arch.persistence.room:compiler:${Versions.room}"
+    val room_rx_java = "android.arch.persistence.room:rxjava2:${Versions.room}"
 }

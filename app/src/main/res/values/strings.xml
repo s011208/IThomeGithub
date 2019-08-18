@@ -2,4 +2,6 @@
     <string name="app_name">ITHome Github</string>
 
     <string name="fragment_log_in_button">Log In</string>
+    <string name="fragment_log_in_fail_toast">Wrong user name or password</string>
+    <string name="fragment_log_in_welcome_message">Hi! %s</string>
 </resources>
